@@ -1,0 +1,11 @@
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
+
+oraklus-core.iml
+/log/
+mvnw
+mvnw.cmd
+/src/main/resources/application-dev.properties
+/src/main/resources/application-test.properties
